@@ -8,5 +8,5 @@
 - Light & Dark mode
 - Smooth movement of the hour, minute & second hands round the clock
 
- ![Clock peview](https://github.com/user-attachments/assets/27d28fc2-4173-43f9-944c-d25d58be7f44)
+ ![Clock preview](https://github.com/user-attachments/assets/27d28fc2-4173-43f9-944c-d25d58be7f44)
 
